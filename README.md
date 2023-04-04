@@ -8,3 +8,4 @@
 * Microsoft SQL Server: microsoftSQL.md
 * InfluxDB: influxDB.md
 * ArangoDB: arangoDB.md
+* Stardog: stardog.md (Extra Credit Database)
