@@ -1,4 +1,4 @@
-# HW0-INFO330
+# datamodels
 
 * Apache Cassandra: cassandra.md
 * MySQL: mySQL.md
